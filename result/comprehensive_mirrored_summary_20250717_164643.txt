@@ -1,0 +1,37 @@
+COMPREHENSIVE MIRRORED POSITIONING TEST RESULTS
+============================================================
+
+Total pairs analyzed: 28
+Period: 2021-2024
+Methodology: Proper mirrored positioning with equal base liquidity
+
+OVERALL STATISTICS:
+  Average Uniswap Return: +2160.7%
+  Average Pennysia Return: +7589.4%
+  Average Advantage: +5428.7%
+
+STRATEGY PERFORMANCE:
+  100% Long Token0 + 100% Short Token1     Avg: +4458.5% | Win Rate:  60.7%
+  75% Long Token0 + 25% Long Token1        Avg: +4943.6% | Win Rate:  75.0%
+  50% Long Token0 + 50% Long Token1 (Balan Avg: +5428.7% | Win Rate:  64.3%
+  25% Long Token0 + 75% Long Token1        Avg: +5913.8% | Win Rate:  50.0%
+  100% Short Token0 + 100% Long Token1     Avg: +6398.9% | Win Rate:  39.3%
+
+TOP 10 PAIR ADVANTAGES:
+  ETH/GALA     +54324.2% (100% Short Token0 + )
+  BTC/GALA     +53388.5% (100% Short Token0 + )
+  GALA/LINK    +51460.8% (100% Long Token0 + 1)
+  CRV/GALA     +50894.0% (100% Short Token0 + )
+  GALA/USDC    +49093.4% (100% Long Token0 + 1)
+  GALA/USDT    +49074.0% (100% Long Token0 + 1)
+  DOT/GALA     +47955.9% (100% Short Token0 + )
+  BTC/ETH      +704.2% (100% Short Token0 + )
+  ETH/LINK     +691.6% (100% Long Token0 + 1)
+  CRV/ETH      +687.6% (100% Short Token0 + )
+
+BOTTOM 5 PAIR DISADVANTAGES:
+  DOT/GALA     -10945.5% (100% Long Token0 + 1)
+  GALA/USDT    -9811.3% (100% Short Token0 + )
+  GALA/USDC    -9791.4% (100% Short Token0 + )
+  CRV/GALA     -7913.9% (100% Long Token0 + 1)
+  GALA/LINK    -7291.8% (100% Short Token0 + )
